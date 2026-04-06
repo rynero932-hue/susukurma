@@ -1,0 +1,5 @@
+{
+  "name": "Susu Kurma Al-Barakah",
+  "description": "Website penjualan susu kurma segar dan sehat dengan layanan konsultasi WhatsApp.",
+  "requestFramePermissions": ["geolocation"]
+}
